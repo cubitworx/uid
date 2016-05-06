@@ -1,0 +1,14 @@
+{
+	"name": "@cubitworx/uid",
+	"version": "0.0.1",
+	"description": "Create an alphanumeric UID",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cubitworx/uid.git"
+	},
+	"author": {
+		"name": "Charles Louw",
+		"email": "charles.louw@gmail.com"
+	},
+	"license": "MIT"
+}
